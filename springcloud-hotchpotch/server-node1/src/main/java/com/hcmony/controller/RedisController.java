@@ -17,7 +17,6 @@ import java.util.Set;
 
 /**
  * @FileName package com.hcmony.controller.RedisController.java
- * @CopyRright (c) 2017-bxm：杭州微财科技有限公司:
  * @Creator hcmony
  * @Created 2017-09-13 19:13:00
  * @Modifier hcmony

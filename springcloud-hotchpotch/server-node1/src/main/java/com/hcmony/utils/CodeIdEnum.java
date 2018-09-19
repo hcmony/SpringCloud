@@ -2,7 +2,6 @@ package com.hcmony.utils;
 
 /**
  * @author hcmony
- * @company RightSide
  * @create 2014-12-05 下午8:32
  */
 public enum CodeIdEnum {

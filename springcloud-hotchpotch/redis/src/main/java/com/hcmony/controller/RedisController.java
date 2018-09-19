@@ -17,7 +17,6 @@ import java.util.Set;
 
 /**
  * @FileName package com.hcmony.controller.RedisController.java
- * @CopyRright (c) 2017-bxm：杭州微财科技有限公司:
  * @Creator hcmony
  * @Created 2017-09-13 19:13:00
  * @Modifier hcmony
@@ -198,7 +197,6 @@ public class RedisController {
 	 * @description
 	 * @author hcmony
 	 * @time 2017/11/24
-	 * @CopyRight 杭州微财网络科技有限公司
 	 * @param key
 	 * @param num
 	 * @return void
@@ -223,7 +221,6 @@ public class RedisController {
 	 * @description
 	 * @author hcmony
 	 * @time 2017/11/24
-	 * @CopyRight 杭州微财网络科技有限公司
 	 * @param key
 	 * @param num
 	 * @param value
@@ -252,7 +249,6 @@ public class RedisController {
 	 * @description
 	 * @author hcmony
 	 * @time 2017/11/24
-	 * @CopyRight 杭州微财网络科技有限公司
 	 * @return void
 	 */
 	@ApiOperation(value = "测试性能,模糊查询", notes = "")
@@ -271,7 +267,6 @@ public class RedisController {
 	 * @description
 	 * @author hcmony
 	 * @time 2017/11/24
-	 * @CopyRight 杭州微财网络科技有限公司
 	 * @return void
 	 */
 	@ApiOperation(value = "测试性能,从set中返回数据", notes = "")
@@ -290,7 +285,6 @@ public class RedisController {
 	 * @description
 	 * @author hcmony
 	 * @time 2017/11/24
-	 * @CopyRight 杭州微财网络科技有限公司
 	 * @return void
 	 */
 	@ApiOperation(value = "测试性能,取值存set", notes = "")

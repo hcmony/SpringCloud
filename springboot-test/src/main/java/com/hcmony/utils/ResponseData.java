@@ -1,6 +1,4 @@
-/*
-* Copyright (c) 2016 eweiche.com. All Rights Reserved.
-*/
+
 package com.hcmony.utils;
 
 import java.io.Serializable;

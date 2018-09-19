@@ -3,7 +3,7 @@ package com.hcmony.utils;
 import java.security.MessageDigest;
 
 /**
- * Created by geely
+ * Created by hcmony
  */
 public class MD5Util {
 

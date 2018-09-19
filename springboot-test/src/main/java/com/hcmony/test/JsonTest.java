@@ -11,7 +11,6 @@ import java.util.Map;
 
 /**
  * @FileName package com.hcmony.test.JsonTest.java
- * @CopyRright (c) 2017-bxm：杭州微财科技有限公司:
  * @Creator hcmony
  * @Created 2017-11-14 12:12:00
  * @Modifier hcmony

@@ -2,7 +2,6 @@ package com.hcmony.test;
 
 /**
  * @FileName package com.hcmony.test.SuanFaTest.java
- * @CopyRright (c) 2017-bxm：杭州微财科技有限公司:
  * @Creator hcmony
  * @Created 2017-10-23 17:03:00
  * @Modifier hcmony

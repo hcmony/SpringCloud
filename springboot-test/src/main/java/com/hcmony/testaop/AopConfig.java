@@ -6,7 +6,6 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 /**
  * @FileName package com.hcmony.testaop.AopConfig.java
- * @CopyRright (c) 2017-bxm：杭州微财科技有限公司:
  * @Creator hcmony
  * @Created 2017-11-13 15:04:00
  * @Modifier hcmony

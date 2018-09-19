@@ -5,12 +5,9 @@ import com.hcmony.service.UserService;
 import com.hcmony.utils.CodeIdEnum;
 import com.hcmony.utils.ResponseData;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.lang.reflect.InvocationHandler;
-import java.lang.reflect.Proxy;
 
 /**
  * Created by hcmony on 2017/9/1.

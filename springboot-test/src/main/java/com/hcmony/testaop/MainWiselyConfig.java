@@ -4,7 +4,6 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 /**
  * @FileName package com.hcmony.testaop.MainWiselyConfig.java
- * @CopyRright (c) 2017-bxm：杭州微财科技有限公司:
  * @Creator hcmony
  * @Created 2017-11-15 16:34:00
  * @Modifier hcmony

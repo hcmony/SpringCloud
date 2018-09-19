@@ -3,10 +3,9 @@ package com.hcmony.utils;
 import java.io.*;
 
 /**
- * @author 杨冬 2015年11月12日 下午2:56:35
+ * @author hcmony 2015年11月12日 下午2:56:35
  * @ClassName SerializableUtil.java
  * @Description 类实现描述: 序列化和反序列化
- * @CopyRight 杭州微财网络科技有限公司
  */
 public class SerializableUtil {
 

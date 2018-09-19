@@ -4,7 +4,6 @@ import com.hcmony.model.User;
 
 /**
  * @FileName package com.hcmony.test.InvokeTest.java
- * @CopyRright (c) 2017-bxm：杭州微财科技有限公司:
  * @Creator hcmony
  * @Created 2017-09-21 15:27:00
  * @Modifier hcmony

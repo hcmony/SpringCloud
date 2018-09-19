@@ -1,6 +1,5 @@
 package com.hcmony.test;
 
-import com.bxm.util.OkHttpUtils;
 import com.hcmony.utils.MD5Util;
 import okhttp3.*;
 
@@ -23,7 +22,7 @@ public class ATest {
 		String appkey ="03043d0bc912b1ac5169eae3111a9348";
 		String url = "https://api.mysubmail.com/message/send.json";
 		String to = "17770020528";
-		String content = "【变现猫】中午请我吃个饭";
+		String content = "中午请我吃个饭";
 		String signature=appkey;
 		//String signature = MD5Util.MD5EncodeUtf8("appid="+appid+"&to="+to+"&content="+content+"&signature="+appkey);
 		String parm = "appid="+appid+"&to="+to+"&content="+content+"&signature="+signature;

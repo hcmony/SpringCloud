@@ -7,7 +7,6 @@ import java.lang.annotation.*;
 
 /**
  * @FileName package com.hcmony.testaop.WiselyConfiguration.java
- * @CopyRright (c) 2017-bxm：杭州微财科技有限公司:
  * @Creator hcmony
  * @Created 2017-11-15 16:29:00
  * @Modifier hcmony

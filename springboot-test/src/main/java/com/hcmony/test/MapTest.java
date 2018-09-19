@@ -6,7 +6,6 @@ import java.util.Map;
 
 /**
  * @FileName package com.hcmony.test.MapTest.java
- * @CopyRright (c) 2017-bxm：杭州微财科技有限公司:
  * @Creator hcmony
  * @Created 2017-09-18 10:15:00
  * @Modifier hcmony

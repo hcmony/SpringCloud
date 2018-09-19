@@ -5,7 +5,6 @@ import java.io.*;
 
 /**
  * @FileName package com.hcmony.test.ChannelTest.java
- * @CopyRright (c) 2017-bxm：杭州微财科技有限公司:
  * @Creator hcmony
  * @Created 2017-09-19 16:24:00
  * @Modifier hcmony

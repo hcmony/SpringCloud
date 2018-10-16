@@ -12,7 +12,7 @@
 
 	<modules>
 		<module>gateway</module>
-		<module>config</module>
+		<module>config-client</module>
 		<module>bus</module>
 		<module>config-server</module>
 		<module>register</module>
@@ -42,6 +42,7 @@
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix</artifactId>
+			<version>1.4.4.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
